@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Local env files
+.env.local
+.env.*.local
+
+# coverage reports
+coverage/
+
+# Next.js build
+.next/
+out/
+
+# Optional: if you're using Docker
+docker-compose.override.yml
